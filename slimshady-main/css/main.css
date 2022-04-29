@@ -1,0 +1,8 @@
+body{
+background-color: rgba(147, 212, 26, 0.689);
+text-align: center;
+}
+
+.profile-pic{
+    border-radius: 50%;
+}
